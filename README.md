@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI & Machine Learning Developer** from Chennai, India, specializing in **Deep Learning, Computer Vision, and Intelligent System Design**. With a strong foundation in both technical development and creative design, I bridge the gap between cutting-edge AI technology and user-centric applications.
+I'm a passionate **AI & Machine Learning Developer**, specializing in **Deep Learning, Computer Vision, and Intelligent System Design**. With a strong foundation in both technical development and creative design, I bridge the gap between cutting-edge AI technology and user-centric applications.
 
 🎓 Currently pursuing my degree at **Chennai Institute of Technology**  
-🔬 Published **2 research papers** in AI/ML domains  
+🔬 Published **3 research papers** in AI/ML domains  
 💡 Transforming complex problems into intelligent, scalable solutions  
 🎨 Combining technical expertise with design thinking for impactful user experiences
 
@@ -37,8 +37,6 @@ I'm a passionate **AI & Machine Learning Developer** from Chennai, India, specia
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
-  <a href="https://github.com/davisking/dlib" target="_blank"><img src="https://img.shields.io/badge/dlib-008000?style=for-the-badge&logo=python&logoColor=white" alt="dlib"/></a>
-  <a href="https://github.com/ageitgey/face_recognition" target="_blank"><img src="https://img.shields.io/badge/Face_Recognition-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Face Recognition"/></a>
   <a href="https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html" target="_blank"><img src="https://img.shields.io/badge/Haar_Cascade-00599C?style=for-the-badge&logo=opencv&logoColor=white" alt="Haar Cascade"/></a>
 </p>
 
@@ -49,7 +47,7 @@ I'm a passionate **AI & Machine Learning Developer** from Chennai, India, specia
 <a href="https://www.tensorflow.org/tutorials/images/segmentation" target="_blank"><img src="https://img.shields.io/badge/U--Net-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="U-Net"/></a>
 <a href="https://www.tensorflow.org/tutorials/generative/autoencoder" target="_blank"><img src="https://img.shields.io/badge/Autoencoder-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Autoencoder"/></a>
   <a href="https://docs.ultralytics.com/" target="_blank"><img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/></a>
-  <img src="https://img.shields.io/badge/Transfer_Learning-FFD43B?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Transfer Learning"/>
+  <a href="https://www.tensorflow.org/tutorials/images/transfer_learning" target="_blank"><img src="https://img.shields.io/badge/Transfer_Learning-FFD43B?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Transfer Learning"/></a>
 </p>
 
 ### 💻 Programming Languages
@@ -75,8 +73,8 @@ I'm a passionate **AI & Machine Learning Developer** from Chennai, India, specia
 <p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a>
-<a href="https://m3.material.io/" target="_blank"><img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/></a>
-<a href="https://www.figma.com/wireframe/" target="_blank"><img src="https://img.shields.io/badge/Wireframing-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="Wireframing"/></a>
+<a href="https://m3.material.io/](https://www.uxdesigninstitute.com/" target="_blank"><img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/></a>
+<a href="https://www.figma.com/wireframe-tool/" target="_blank"><img src="https://img.shields.io/badge/Wireframing-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="Wireframing"/></a>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -116,15 +114,18 @@ Recognition for Outstanding Research Contribution
 - **[Comparative Analysis of YOLOv8 and EfficientDet for Object Detection in Autonomous Vehicles](https://ieeexplore.ieee.org/document/11011852)**  
   *Performance evaluation of state-of-the-art object detection models*
 
-### 🎓 Professional Certifications
+ ## 🎓 Professional Certifications
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ZvZZjWmve_ZyN-pQGxhXlA2Xldc5BH1y/view?usp=sharing"><img src="https://img.shields.io/badge/Coursera-DSA-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera DSA"/></a>
-  <a href="https://drive.google.com/file/d/13ICQEv-5lxqFTm6CFeEwb9qLOjq1XYmH/view?usp=sharing"><img src="https://img.shields.io/badge/SkillRack-SQL-FF6B35?style=for-the-badge&logo=mysql&logoColor=white" alt="SkillRack SQL"/></a>
-  <a href="https://drive.google.com/file/d/12o8-ALjEr7r-JQeSNe1EaNfStL3JkHuW/view?usp=sharing"><img src="https://img.shields.io/badge/NPTEL-009688?style=for-the-badge&logo=google&logoColor=white" alt="NPTEL"/></a>
-  <a href="https://drive.google.com/file/d/1NOXaw8YDlKBQAP6UeYNPD5wyNP-O-jj3/view?usp=sharing"><img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/></a>
-  <a href="https://drive.google.com/file/d/1Jo2QQ730jEDYhBjcjH_VBAMOdSoBB_ID/view?usp=sharing"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://drive.google.com/file/d/13i2p5TGcyCLQwP_bYoodrIuxjGnwy_FJ/view?usp=sharing"><img src="https://img.shields.io/badge/IIC_Innovation-FF9800?style=for-the-badge&logo=google&logoColor=white" alt="IIC"/></a>
+
+<a href="https://drive.google.com/file/d/1ZvZZjWmve_ZyN-pQGxhXlA2Xldc5BH1y/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Coursera-DSA-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera DSA"/></a>
+<a href="https://drive.google.com/file/d/13ICQEv-5lxqFTm6CFeEwb9qLOjq1XYmH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/SkillRack-SQL-FF6B35?style=for-the-badge&logo=mysql&logoColor=white" alt="SkillRack SQL"/></a>
+<a href="https://drive.google.com/file/d/12o8-ALjEr7r-JQeSNe1EaNfStL3JkHuW/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/NPTEL-DBMS-009688?style=for-the-badge&logo=google&logoColor=white" alt="NPTEL DBMS"/></a>
+<a href="https://drive.google.com/file/d/1Jo2QQ730jEDYhBjcjH_VBAMOdSoBB_ID/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java"/></a>
+<a href="https://drive.google.com/file/d/13i2p5TGcyCLQwP_bYoodrIuxjGnwy_FJ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/IIC-Innovation-FF9800?style=for-the-badge&logo=google&logoColor=white" alt="IIC Innovation Ambassador"/></a>
+<a href="https://drive.google.com/file/d/1NOXaw8YDlKBQAP6UeYNPD5wyNP-O-jj3/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Essentials"/></a>
+
 </p>
+
 
 ---
 
@@ -162,7 +163,7 @@ Recognition for Outstanding Research Contribution
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkehttps://www.linkedin.com/in/pavithra-r-abaaa1300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/pavithra-r-abaaa1300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@pavithra-f3r?si=_iCmo9qSv1PHq9X0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:pavithrar486@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   
