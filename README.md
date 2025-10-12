@@ -72,7 +72,7 @@ I'm a passionate **AI & Machine Learning Developer**, specializing in **Deep Lea
 ### 🎨 Design & Prototyping
 <p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a>
+  <a href="https://www.canva.com" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
 <a href="https://m3.material.io/](https://www.uxdesigninstitute.com/" target="_blank"><img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/></a>
 <a href="https://www.figma.com/wireframe-tool/" target="_blank"><img src="https://img.shields.io/badge/Wireframing-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="Wireframing"/></a>
 </p>
@@ -85,7 +85,6 @@ I'm a passionate **AI & Machine Learning Developer**, specializing in **Deep Lea
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 </p>
 
 ---
@@ -151,8 +150,7 @@ Recognition for Outstanding Research Contribution
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavi17-R&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavi17-R&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph"/>
-</div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavi17-R&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" width="100%"/> </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavi17-R&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
