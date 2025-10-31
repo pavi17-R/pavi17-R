@@ -145,15 +145,11 @@ Recognition for Outstanding Research Contribution
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavi17-R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=pavi17-R&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </p>
-
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavi17-R&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavi17-R&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" width="100%"/> 
 </div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavi17-R&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
